@@ -1,0 +1,27 @@
+*{
+    color:black;
+    margin:1;
+    background-color: rgb(248, 207, 192);
+    font-family: "Helvetica Neue",Helvetica,Arial;
+    font-size: medium;
+}
+div{
+    border: solid #f590f5;
+    font-family: fantasy;
+}
+p, li{
+    color:#f590f5;
+    color:hsl(0, 100%, 50%);
+}
+a{
+    color:rgb(167, 6, 167);
+}
+.one{
+    background-color:rgb(115, 245, 152);
+    font-size: 30px;
+    font-weight: 1000;
+    color:navy;
+}
+img {
+    border-radius: 50%;
+  }
